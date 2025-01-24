@@ -1,0 +1,1 @@
+Creating project locally and then adding to Git
